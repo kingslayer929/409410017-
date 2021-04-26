@@ -1,4 +1,4 @@
-Heap Sort
+quick sort:
 data count: 1000000
-sec: 1.364391 s
-usec: 1364391 us
+sec: 0.905501 s
+usec: 905501 us
